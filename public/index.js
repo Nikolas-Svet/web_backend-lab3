@@ -3,7 +3,7 @@ const apiBaseUrl = '';
 let token = '';
 let userId = '';
 
-const API_PREFIX = '/api/lab2/'
+const API_PREFIX = '/api/lab3/'
 
 const registrationForm = document.querySelector('.registration-form');
 const loginForm = document.querySelector('.login-form');

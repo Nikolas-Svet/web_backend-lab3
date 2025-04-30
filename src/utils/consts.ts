@@ -1,5 +1,5 @@
 // src/utils/consts.ts
-export const API_PREFIX = '/api/lab2/';
+export const API_PREFIX = '/api/lab3/';
 
 // Сообщения для фронта
 export enum ErrorMessages {
